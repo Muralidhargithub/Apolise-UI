@@ -7,16 +7,16 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		3794301E2CDB37D2002601E7 /* Session1Homework2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Session1Homework2.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3794301E2CDB37D2002601E7 /* Ios.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Ios.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		379430302CDB37D4002601E7 /* Exceptions for "Session1Homework2" folder in "Session1Homework2" target */ = {
+		379430302CDB37D4002601E7 /* Exceptions for "Session1Homework2" folder in "Ios" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = 3794301D2CDB37D2002601E7 /* Session1Homework2 */;
+			target = 3794301D2CDB37D2002601E7 /* Ios */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
@@ -24,7 +24,7 @@
 		379430202CDB37D2002601E7 /* Session1Homework2 */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				379430302CDB37D4002601E7 /* Exceptions for "Session1Homework2" folder in "Session1Homework2" target */,
+				379430302CDB37D4002601E7 /* Exceptions for "Session1Homework2" folder in "Ios" target */,
 			);
 			path = Session1Homework2;
 			sourceTree = "<group>";
@@ -53,7 +53,7 @@
 		3794301F2CDB37D2002601E7 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3794301E2CDB37D2002601E7 /* Session1Homework2.app */,
+				3794301E2CDB37D2002601E7 /* Ios.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -61,9 +61,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		3794301D2CDB37D2002601E7 /* Session1Homework2 */ = {
+		3794301D2CDB37D2002601E7 /* Ios */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 379430312CDB37D4002601E7 /* Build configuration list for PBXNativeTarget "Session1Homework2" */;
+			buildConfigurationList = 379430312CDB37D4002601E7 /* Build configuration list for PBXNativeTarget "Ios" */;
 			buildPhases = (
 				3794301A2CDB37D2002601E7 /* Sources */,
 				3794301B2CDB37D2002601E7 /* Frameworks */,
@@ -76,11 +76,11 @@
 			fileSystemSynchronizedGroups = (
 				379430202CDB37D2002601E7 /* Session1Homework2 */,
 			);
-			name = Session1Homework2;
+			name = Ios;
 			packageProductDependencies = (
 			);
 			productName = Session1Homework2;
-			productReference = 3794301E2CDB37D2002601E7 /* Session1Homework2.app */;
+			productReference = 3794301E2CDB37D2002601E7 /* Ios.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -112,7 +112,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				3794301D2CDB37D2002601E7 /* Session1Homework2 */,
+				3794301D2CDB37D2002601E7 /* Ios */,
 			);
 		};
 /* End PBXProject section */
@@ -147,6 +147,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Session1Homework2/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Drait;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -174,6 +175,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Session1Homework2/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Drait;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -323,7 +325,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		379430312CDB37D4002601E7 /* Build configuration list for PBXNativeTarget "Session1Homework2" */ = {
+		379430312CDB37D4002601E7 /* Build configuration list for PBXNativeTarget "Ios" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				379430322CDB37D4002601E7 /* Debug */,
