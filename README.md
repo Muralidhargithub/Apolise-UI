@@ -42,7 +42,7 @@ This iOS application provides a seamless user interface for user authentication.
 <img src="pictures/launchscreen.png" alt="Launch Screen" width="500">
 <img src="pictures/Login.png" alt="Login Page" width="500">
 <img src="pictures/signup.png" alt="Signup Page" width="500">
-<img src="Forgot Password Page" alt="Forgot Password Page" width="500">
+<img src="pictures/forgetpassword.png" alt="Forgot Password Page" width="500">
 
 ## Future Enhancements
 - Integration of backend services for handling authentication.
