@@ -39,11 +39,10 @@ This iOS application provides a seamless user interface for user authentication.
 3. Run the project by clicking on the **Run button** or pressing Cmd + R.
 
 ## Screenshots
-<img src="pictures/launchscreen.png" alt="Launch Screen" width="300" height="500>
-
-![Login Page](pictures/Login.png)
-![Signup Page](pictures/signup.png)
-![Forgot Password Page](pictures/forgetpassword.png)
+<img src="pictures/launchscreen.png" alt="Launch Screen" width="500">
+<img src="pictures/Login.png" alt="Login Page" width="500">
+<img src="pictures/signup.png" alt="Signup Page" width="500">
+<img src="Forgot Password Page" alt="Forgot Password Page" width="500">
 
 ## Future Enhancements
 - Integration of backend services for handling authentication.
